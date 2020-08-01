@@ -8,6 +8,8 @@ This simple note taking application allows you to save notes with a title and pl
 
 
 ## Preview:
+<iframe src="https://drive.google.com/file/d/1SujDwgzYiRKL4uL7ohDVvbZyyf8hWkqM/preview" width="640" height="480"></iframe>
+
 [Application Preview](https://drive.google.com/file/d/1SujDwgzYiRKL4uL7ohDVvbZyyf8hWkqM/view?usp=sharing)
 
 ## Deployed Link:
