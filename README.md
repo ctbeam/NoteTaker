@@ -18,7 +18,7 @@ Run `npm install` to install all dependencies. To use the application locally, r
 ![Application Preview]()
 
 ## Deployed Link:
-[Note Taker App]()
+[Note Taker App](https://ctbeamnotetaker.herokuapp.com/)
 
 ## Learning Points:
 * This app was a practice in writing the backend code only and then integrating it with provided front end code (index.html, notes.html, and custom jQuery)
