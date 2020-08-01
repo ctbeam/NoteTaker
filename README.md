@@ -8,7 +8,7 @@ This simple note taking application allows you to save notes with a title and pl
 
 
 ## Preview:
-![Application Preview]()
+![Application Preview](https://drive.google.com/file/d/1gSZDmcjoZx-dz3-QYzLqUYN_dD_LQeiR/view)
 
 ## Deployed Link:
 [Note Taker App](https://ctbeamnotetaker.herokuapp.com/)
